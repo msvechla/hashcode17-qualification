@@ -11,6 +11,6 @@ COUNT_CACHES = 2;
 // Input
 videoSize = [50,50,80,30,110];
 cacheSize = 100;
-latencyCaches = [[100,200,200][999999,999999,999999]];
+latencyCaches = [[100,200,300][999999,999999,999999]];
 latencyDatacenter = [1000,500];
 request = [[0,1000,0,1500,500][1000,0,0,0,0]];
