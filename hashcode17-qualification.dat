@@ -1,0 +1,16 @@
+/*********************************************
+ * OPL 12.7.0.0 Data
+ * Author: Marius
+ * Creation Date: 26.02.2017 at 21:57:25
+ *********************************************/
+// Indices
+COUNT_VIDEOS = 4;
+COUNT_ENDPOINTS = 1;
+COUNT_CACHES = 2;
+
+// Input
+videoSize = [50,50,80,30,110];
+cacheSize = 100;
+latencyCaches = [[100,200,200][999999,999999,999999]];
+latencyDatacenter = [1000,500];
+request = [[0,1000,0,1500,500][1000,0,0,0,0]];
